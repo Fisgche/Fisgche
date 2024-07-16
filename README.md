@@ -1,4 +1,4 @@
-Olá, eu sou o Gustavo Fischer, tenho 21 anos, aluno de Engenharia de Computação na PUC Minas, atualmente no setimo periodo. Vou deixar esse espaço para postar 
+Olá, eu sou o Gustavo Fischer, tenho 22 anos, aluno de Engenharia de Computação na PUC Minas, atualmente no decimo periodo. Vou deixar esse espaço para postar 
 meus trabalhos e projetos. 😃😃
 <div align="center">
   <a href="https://github.com/Fisgche">
